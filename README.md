@@ -16,5 +16,5 @@ http://cloudandmobileblog.com/2018/07/28/understanding-binary-classification-usi
 **Fourth** Blog Post
 (In Progress)
 
-**Fifth** Blog Post
-(In Progress)
+**Fifth** Blog Post on Prediction using Regression
+https://cloudandmobileblog.com/2018/07/28/building-fare-predictor-using-regression-evaluator-of-machine-learning-netpart-5-of-5/
