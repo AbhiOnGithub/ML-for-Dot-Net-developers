@@ -10,10 +10,13 @@
     <PackageReference Include="Microsoft.ML" Version="0.3.0" />
   </ItemGroup>
   <ItemGroup>
-    <None Update="wikipedia-detox-250-line-data.tsv">
+    <None Remove="wikipedia-detox-250-line-data.tsv" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="sentiment-imdb-train.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Update="wikipedia-detox-250-line-test.tsv">
+    <None Update="sentiment-yelp-test.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
   </ItemGroup>
