@@ -18,3 +18,6 @@ https://cloudandmobileblog.com/2018/07/28/sentiment-analysis-using-machine-learn
 
 **Fifth** Blog Post on Prediction using Regression
 https://cloudandmobileblog.com/2018/07/28/building-fare-predictor-using-regression-evaluator-of-machine-learning-netpart-5-of-5/
+
+
+References : Microsoft's Sample Implementations and official Documentation.
