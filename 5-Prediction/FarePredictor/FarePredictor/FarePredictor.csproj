@@ -8,4 +8,12 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.ML" Version="0.3.0" />
   </ItemGroup>
+  <ItemGroup>
+    <None Update="taxi-fare-test.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="taxi-fare-train.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
 </Project>
