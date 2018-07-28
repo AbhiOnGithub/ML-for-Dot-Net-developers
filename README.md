@@ -13,8 +13,8 @@ https://cloudandmobileblog.com/2018/07/15/clustering-in-machinelearning-net/
 **Third** Blog Post on Binary Classification using Titanic Data.
 http://cloudandmobileblog.com/2018/07/28/understanding-binary-classification-using-sentiment-analysis-through-ml-net-part-3-of-5
 
-**Fourth** Blog Post
-(In Progress)
+**Fourth** Blog Posts on Sentiment Analysis 
+https://cloudandmobileblog.com/2018/07/28/sentiment-analysis-using-machine-learning-net-part-4-of-5/
 
 **Fifth** Blog Post on Prediction using Regression
 https://cloudandmobileblog.com/2018/07/28/building-fare-predictor-using-regression-evaluator-of-machine-learning-netpart-5-of-5/
