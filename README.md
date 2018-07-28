@@ -10,8 +10,8 @@ https://cloudandmobileblog.com/2018/07/09/introduction-of-machine-learning-net-p
 **Second** Blog Post on Clustering in Machine Learning .NET
 https://cloudandmobileblog.com/2018/07/15/clustering-in-machinelearning-net/
 
-**Third** Blog Post
-(In Progress)
+**Third** Blog Post on Binary Classification using Titanic Data.
+http://cloudandmobileblog.com/2018/07/28/understanding-binary-classification-using-sentiment-analysis-through-ml-net-part-3-of-5
 
 **Fourth** Blog Post
 (In Progress)
