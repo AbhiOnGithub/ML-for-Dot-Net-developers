@@ -1,7 +1,7 @@
 ﻿using System;
 namespace TitanicSurvivalClassifier
 {
-    internal class TestTitanicData
+    public class TestTitanicData
     {
         public static readonly TitanicData Passenger = new TitanicData()
         {
